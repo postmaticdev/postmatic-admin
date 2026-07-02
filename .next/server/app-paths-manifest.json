@@ -1,5 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/refresh/route": "app/api/auth/refresh/route.js",
+  "/api/auth/sync/route": "app/api/auth/sync/route.js",
   "/api/backend/[...path]/route": "app/api/backend/[...path]/route.js",
   "/page": "app/page.js"
 }
