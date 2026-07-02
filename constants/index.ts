@@ -6,4 +6,5 @@ export const NEXT_PUBLIC_ADMIN_ORIGIN = "https://admin-haystudio-staging.postmat
 
 export const ACCESS_TOKEN_KEY = "postmaticAccessToken";
 export const REFRESH_TOKEN_KEY = "postmaticRefreshToken";
+// login
 export const LOGIN_URL = NEXT_PUBLIC_AUTH_ORIGIN + "/login" + "?from=" + NEXT_PUBLIC_ADMIN_ORIGIN;
